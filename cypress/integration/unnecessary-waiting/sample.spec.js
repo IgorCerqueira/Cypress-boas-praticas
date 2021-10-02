@@ -15,7 +15,7 @@ describe('Unnecessary waiting bad practice', () => {
 
     cy.get('#destination_name')
       .clear()
-      .type(info.name)
+      .type(info.name).should('not.be.empty')
     cy.get('#destination_description')
       .clear()
       .type(info.description)
