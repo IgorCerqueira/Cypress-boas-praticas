@@ -1,6 +1,6 @@
 # Boas práticas em automação de testes com Cypress
 
-👋 Seja bem vinda(o)!
+👋 Seja bem vinda(o)! Esse repositorio foi criado ao realizar o curso de boas práticas com cypress, ministrado pelo professor Walmyr(https://udemy.com/user/walmyr)
 
 ## O que foi abordado:
 
